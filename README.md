@@ -1,2 +1,5 @@
 # About Repo
-ALX SWE Binary Trees Project
+
+A Custom Implementation of Binary Trees.
+
+An ALX SWE Project.
